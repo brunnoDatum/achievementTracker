@@ -1,0 +1,3 @@
+/Users/btripovichy/CLionProjects/Game1011_TripovichyBrunno_Lab1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/btripovichy/CLionProjects/Game1011_TripovichyBrunno_Lab1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/btripovichy/CLionProjects/Game1011_TripovichyBrunno_Lab1/cmake-build-debug/CMakeFiles/Game1011_TripovichyBrunno_Lab1.dir

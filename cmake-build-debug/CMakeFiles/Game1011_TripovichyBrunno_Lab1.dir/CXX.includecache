@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/btripovichy/CLionProjects/Game1011_TripovichyBrunno_Lab1/Achievement.h
+string
+-
+
+/Users/btripovichy/CLionProjects/Game1011_TripovichyBrunno_Lab1/Game.h
+string
+-
+vector
+-
+Achievement.h
+/Users/btripovichy/CLionProjects/Game1011_TripovichyBrunno_Lab1/Achievement.h
+
+/Users/btripovichy/CLionProjects/Game1011_TripovichyBrunno_Lab1/Platform.h
+string
+-
+Game.h
+/Users/btripovichy/CLionProjects/Game1011_TripovichyBrunno_Lab1/Game.h
+
+/Users/btripovichy/CLionProjects/Game1011_TripovichyBrunno_Lab1/main.cpp
+iostream
+-
+vector
+-
+Platform.h
+/Users/btripovichy/CLionProjects/Game1011_TripovichyBrunno_Lab1/Platform.h
+Game.h
+/Users/btripovichy/CLionProjects/Game1011_TripovichyBrunno_Lab1/Game.h
+Achievement.h
+/Users/btripovichy/CLionProjects/Game1011_TripovichyBrunno_Lab1/Achievement.h
+
